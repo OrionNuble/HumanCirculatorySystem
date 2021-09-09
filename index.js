@@ -1,6 +1,6 @@
 document.getElementById("continue").onclick = function () {
 
-    location.href = 'http://127.0.0.1:5500/simulation.html';
+    location.href = 'simulation.html';
 
 };
 
